@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Mon Apr 22 19:52:50 BST 2019
+stories/calculator.story=0
+threads=1
+total=0
+threadAverage=0

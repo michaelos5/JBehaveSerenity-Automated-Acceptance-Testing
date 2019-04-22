@@ -1,0 +1,53 @@
+<xref>
+  <whenMade>1555957067956</whenMade>
+  <createdBy>JBehave</createdBy>
+  <metaFilter>-ignore</metaFilter>
+  <meta/>
+  <stories>
+    <story>
+      <description></description>
+      <narrative>In order to 
+As a user
+I want to make an operation
+</narrative>
+      <name>calculator.story</name>
+      <path>stories/calculator.story</path>
+      <html>stories.calculator.html</html>
+      <meta></meta>
+      <scenarios>Scenario:scenario Addition
+Given a Calculator Class with the operation sign as &lt;sign&gt;
+When I give the first number as &lt;number1&gt;
+When I give the second number as &lt;number2&gt;
+Then I should get the result as &lt;result&gt;
+
+
+Scenario:scenario Subtraction
+Given a Calculator Class with the operation sign as &lt;sign&gt;
+When I give the first number as &lt;number1&gt;
+When I give the second number as &lt;number2&gt;
+Then I should get the result as &lt;result&gt;
+
+
+Scenario:scenario Multiplication
+Given a Calculator Class with the operation sign as &lt;sign&gt;
+When I give the first number as &lt;number1&gt;
+When I give the second number as &lt;number2&gt;
+Then I should get the result as &lt;result&gt;
+
+
+Scenario:scenario Division
+Given a Calculator Class with the operation sign as &lt;sign&gt;
+When I give the first number as &lt;number1&gt;
+When I give the second number as &lt;number2&gt;
+Then I should get the result as &lt;result&gt;
+
+
+</scenarios>
+      <passed>false</passed>
+      <pending>false</pending>
+      <started>1555957065671</started>
+      <duration>470</duration>
+    </story>
+  </stories>
+  <stepMatches/>
+</xref>

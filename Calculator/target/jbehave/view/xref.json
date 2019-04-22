@@ -1,0 +1,22 @@
+{"xref": {
+  "whenMade": 1555957067956,
+  "createdBy": "JBehave",
+  "metaFilter": "-ignore",
+  "meta": [],
+  "stories": [
+    {
+      "description": "",
+      "narrative": "In order to \nAs a user\nI want to make an operation\n",
+      "name": "calculator.story",
+      "path": "stories/calculator.story",
+      "html": "stories.calculator.html",
+      "meta": "",
+      "scenarios": "Scenario:scenario Addition\nGiven a Calculator Class with the operation sign as <sign>\nWhen I give the first number as <number1>\nWhen I give the second number as <number2>\nThen I should get the result as <result>\n\n\nScenario:scenario Subtraction\nGiven a Calculator Class with the operation sign as <sign>\nWhen I give the first number as <number1>\nWhen I give the second number as <number2>\nThen I should get the result as <result>\n\n\nScenario:scenario Multiplication\nGiven a Calculator Class with the operation sign as <sign>\nWhen I give the first number as <number1>\nWhen I give the second number as <number2>\nThen I should get the result as <result>\n\n\nScenario:scenario Division\nGiven a Calculator Class with the operation sign as <sign>\nWhen I give the first number as <number1>\nWhen I give the second number as <number2>\nThen I should get the result as <result>\n\n\n",
+      "passed": false,
+      "pending": false,
+      "started": 1555957065671,
+      "duration": 470
+    }
+  ],
+  "stepMatches": []
+}}
